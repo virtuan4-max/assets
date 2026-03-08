@@ -1,0 +1,4322 @@
+[
+  {
+    "id": 1,
+    "name": "10 Minutes Till Dawn",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/10_minutes_till_dawn.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/10_minutes_till_dawn.html"
+  },
+  {
+    "id": 2,
+    "name": "12 Mini Battles",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/12_mini_battles.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/12_mini_battles.html"
+  },
+  {
+    "id": 3,
+    "name": "1 Date Danger",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/1_date_danger.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/1_date_danger.html"
+  },
+  {
+    "id": 4,
+    "name": "1v1.LoL",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/1v1_lol.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/1v1_lol.html"
+  },
+  {
+    "id": 5,
+    "name": "2048 Merge Run",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/2048_merge_run.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/2048_merge_run.html"
+  },
+  {
+    "id": 6,
+    "name": "3D Bolt Master",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/3d_bolt_master.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/3d_bolt_master.html"
+  },
+  {
+    "id": 7,
+    "name": "3D Bowling",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/3d_bowling.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/3d_bowling.html"
+  },
+  {
+    "id": 8,
+    "name": "64 in 1 NES",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/64_in_1_nes.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/64_in_1_nes.html"
+  },
+  {
+    "id": 9,
+    "name": "8 Ball Classic",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/8_ball_classic.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/8_ball_classic.html"
+  },
+  {
+    "id": 10,
+    "name": "8 Ball Pool",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/8_ball_pool.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/8_ball_pool.html"
+  },
+  {
+    "id": 11,
+    "name": "99 Balls",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/99_balls.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/99_balls.html"
+  },
+  {
+    "id": 12,
+    "name": "A Bite at Freddy's",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/a_bite_at_freddy_s.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/a_bite_at_freddy_s.html"
+  },
+  {
+    "id": 13,
+    "name": "A Dance of Fire and Ice",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/a_dance_of_fire_and_ice.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/a_dance_of_fire_and_ice.html"
+  },
+  {
+    "id": 14,
+    "name": "A Difficult Game About Climbing",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/a_difficult_game_about_climbing.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/a_difficult_game_about_climbing.html"
+  },
+  {
+    "id": 15,
+    "name": "A Game About Feeding A Black Hole",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/a_game_about_feeding_a_black_hole.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/a_game_about_feeding_a_black_hole.html"
+  },
+  {
+    "id": 16,
+    "name": "A Small World Cup",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/a_small_world_cup.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/a_small_world_cup.html"
+  },
+  {
+    "id": 17,
+    "name": "Abandoned",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/abandoned.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/abandoned.html"
+  },
+  {
+    "id": 18,
+    "name": "Achievement Unlocked",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/achievement_unlocked.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/achievement_unlocked.html"
+  },
+  {
+    "id": 19,
+    "name": "Achievement Unlocked 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/achievement_unlocked_2.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/achievement_unlocked_2.html"
+  },
+  {
+    "id": 20,
+    "name": "Achievement Unlocked 3",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/achievement_unlocked_3.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/achievement_unlocked_3.html"
+  },
+  {
+    "id": 21,
+    "name": "Adventure Capatalist",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/adventure_capatalist.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/adventure_capatalist.html"
+  },
+  {
+    "id": 22,
+    "name": "Adventure Drivers",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/adventure_drivers.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/adventure_drivers.html"
+  },
+  {
+    "id": 23,
+    "name": "Ages of Conflict",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/ages_of_conflict.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/ages_of_conflict.html"
+  },
+  {
+    "id": 24,
+    "name": "Alien Hominid",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/alien_hominid.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/alien_hominid.html"
+  },
+  {
+    "id": 25,
+    "name": "Amanda the Adventurer",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/amanda_the_adventurer.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/amanda_the_adventurer.html"
+  },
+  {
+    "id": 26,
+    "name": "Amaze",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/amaze.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/amaze.html"
+  },
+  {
+    "id": 27,
+    "name": "Andy's Apple Farm",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/andy_s_apple_farm.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/andy_s_apple_farm.html"
+  },
+  {
+    "id": 28,
+    "name": "Angry Birds",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/angry_birds.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/angry_birds.html"
+  },
+  {
+    "id": 29,
+    "name": "Angry Birds Chrome",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/angry_birds_chrome.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/angry_birds_chrome.html"
+  },
+  {
+    "id": 30,
+    "name": "Angry Birds Showdown",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/angry_birds_showdown.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/angry_birds_showdown.html"
+  },
+  {
+    "id": 31,
+    "name": "Antonblast",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/antonblast.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/antonblast.html"
+  },
+  {
+    "id": 32,
+    "name": "Aquapark.io",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/aquapark_io.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/aquapark_io.html"
+  },
+  {
+    "id": 33,
+    "name": "Archery World Tour",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/archery_world_tour.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/archery_world_tour.html"
+  },
+  {
+    "id": 34,
+    "name": "Arthur's Nightmare",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/arthur_s_nightmare.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/arthur_s_nightmare.html"
+  },
+  {
+    "id": 35,
+    "name": "Attack Hole",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/attack_hole.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/attack_hole.html"
+  },
+  {
+    "id": 36,
+    "name": "Aviamasters",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/aviamasters.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/aviamasters.html"
+  },
+  {
+    "id": 37,
+    "name": "Awesome Tanks",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/awesome_tanks.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/awesome_tanks.html"
+  },
+  {
+    "id": 38,
+    "name": "Awesome Tanks 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/awesome_tanks_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/awesome_tanks_2.html"
+  },
+  {
+    "id": 39,
+    "name": "Backrooms",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/backrooms.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/backrooms.html"
+  },
+  {
+    "id": 40,
+    "name": "Bacon May Die",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/bacon_may_die.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/bacon_may_die.html"
+  },
+  {
+    "id": 41,
+    "name": "Bad Ice Cream",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/bad_ice_cream.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/bad_ice_cream.html"
+  },
+  {
+    "id": 42,
+    "name": "Bad Ice Cream 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/bad_ice_cream_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/bad_ice_cream_2.html"
+  },
+  {
+    "id": 43,
+    "name": "Bad Ice Cream 3",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/bad_ice_cream_3.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/bad_ice_cream_3.html"
+  },
+  {
+    "id": 44,
+    "name": "Bad Monday Simulator",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/bad_monday_simulator.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/bad_monday_simulator.html"
+  },
+  {
+    "id": 45,
+    "name": "Bad Parenting 1",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/bad_parenting_1.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/bad_parenting_1.html"
+  },
+  {
+    "id": 46,
+    "name": "Bad Time Simulator",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/bad_time_simulator.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/bad_time_simulator.html"
+  },
+  {
+    "id": 47,
+    "name": "Baldi's Basics",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/baldi_s_basics.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/baldi_s_basics.html"
+  },
+  {
+    "id": 48,
+    "name": "Baldi's Basics Classic Remastered",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/baldi_s_basics_classic_remastered.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/baldi_s_basics_classic_remastered.html"
+  },
+  {
+    "id": 49,
+    "name": "Baldi's Basics Plus",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/baldi_s_basics_plus.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/baldi_s_basics_plus.html"
+  },
+  {
+    "id": 50,
+    "name": "Ball Blast",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/ball_blast.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/ball_blast.html"
+  },
+  {
+    "id": 51,
+    "name": "Bank Robbery",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/bank_robbery.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/bank_robbery.html"
+  },
+  {
+    "id": 52,
+    "name": "Bank Robbery 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/bank_robbery_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/bank_robbery_2.html"
+  },
+  {
+    "id": 53,
+    "name": "Bank Robbery 3",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/bank_robbery_3.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/bank_robbery_3.html"
+  },
+  {
+    "id": 54,
+    "name": "Bart Blast",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/bart_blast.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/bart_blast.html"
+  },
+  {
+    "id": 55,
+    "name": "Baseball Bros",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/baseball_bros.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/baseball_bros.html"
+  },
+  {
+    "id": 56,
+    "name": "Basket Battle",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/basket_battle.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/basket_battle.html"
+  },
+  {
+    "id": 57,
+    "name": "Basket Bros",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/basket_bros.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/basket_bros.html"
+  },
+  {
+    "id": 58,
+    "name": "Basket Random",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/basket_random.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/basket_random.html"
+  },
+  {
+    "id": 59,
+    "name": "Basketball Frvr",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/basketball_frvr.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/basketball_frvr.html"
+  },
+  {
+    "id": 60,
+    "name": "Basketball Stars",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/basketball_stars.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/basketball_stars.html"
+  },
+  {
+    "id": 61,
+    "name": "Bazooka Boy",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/bazooka_boy.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/bazooka_boy.html"
+  },
+  {
+    "id": 62,
+    "name": "Bendy and the Ink Machine",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/bendy_and_the_ink_machine.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/bendy_and_the_ink_machine.html"
+  },
+  {
+    "id": 63,
+    "name": "BERGENTRUCK 201x",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/bergentruck_201x.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/bergentruck_201x.html"
+  },
+  {
+    "id": 64,
+    "name": "BFDIA 5b",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/bfdia_5b.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/bfdia_5b.html"
+  },
+  {
+    "id": 65,
+    "name": "BFDIA 5b: 5*30",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/bfdia_5b_5_30.gif",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/bfdia_5b_5_30.html"
+  },
+  {
+    "id": 66,
+    "name": "Big ICE Tower Tiny Square",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/big_ice_tower_tiny_square.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/big_ice_tower_tiny_square.html"
+  },
+  {
+    "id": 67,
+    "name": "Big NEON Tower Tiny Square",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/big_neon_tower_tiny_square.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/big_neon_tower_tiny_square.html"
+  },
+  {
+    "id": 68,
+    "name": "Big Tower Tiny Square",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/big_tower_tiny_square.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/big_tower_tiny_square.html"
+  },
+  {
+    "id": 69,
+    "name": "Big Tower Tiny Square 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/big_tower_tiny_square_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/big_tower_tiny_square_2.html"
+  },
+  {
+    "id": 70,
+    "name": "Binding of Issac: Wrath of the Lamb",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/binding_of_issac_wrath_of_the_lamb.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/binding_of_issac_wrath_of_the_lamb.html"
+  },
+  {
+    "id": 71,
+    "name": "BitGun.io",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/bitgun_io.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/bitgun_io.html"
+  },
+  {
+    "id": 72,
+    "name": "BitLife",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/bitlife.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/bitlife.html"
+  },
+  {
+    "id": 73,
+    "name": "BitPlanes",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/bitplanes.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/bitplanes.html"
+  },
+  {
+    "id": 74,
+    "name": "BlackJack",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/blackjack.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/blackjack.html"
+  },
+  {
+    "id": 75,
+    "name": "Blade Ball",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/blade_ball.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/blade_ball.html"
+  },
+  {
+    "id": 76,
+    "name": "Block Blast",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/block_blast.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/block_blast.html"
+  },
+  {
+    "id": 77,
+    "name": "BlockPost",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/blockpost.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/blockpost.html"
+  },
+  {
+    "id": 78,
+    "name": "Blocky Snakes",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/blocky_snakes.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/blocky_snakes.html"
+  },
+  {
+    "id": 79,
+    "name": "BLOODMONEY!",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/bloodmoney.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/bloodmoney.html"
+  },
+  {
+    "id": 80,
+    "name": "Bloons TD",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/bloons_td.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/bloons_td.html"
+  },
+  {
+    "id": 81,
+    "name": "Bloons TD 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/bloons_td_2.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/bloons_td_2.html"
+  },
+  {
+    "id": 82,
+    "name": "Bloons TD 3",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/bloons_td_3.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/bloons_td_3.html"
+  },
+  {
+    "id": 83,
+    "name": "Bloons TD 4",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/bloons_td_4.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/bloons_td_4.html"
+  },
+  {
+    "id": 84,
+    "name": "Bloons TD 5",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/bloons_td_5.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/bloons_td_5.html"
+  },
+  {
+    "id": 85,
+    "name": "Bloxorz",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/bloxorz.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/bloxorz.html"
+  },
+  {
+    "id": 86,
+    "name": "Blumgi Rocket",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/blumgi_rocket.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/blumgi_rocket.html"
+  },
+  {
+    "id": 87,
+    "name": "Bob The Robber 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/bob_the_robber_2.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/bob_the_robber_2.html"
+  },
+  {
+    "id": 88,
+    "name": "Boom Slingers: Reboom",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/boom_slingers_reboom.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/boom_slingers_reboom.html"
+  },
+  {
+    "id": 89,
+    "name": "Bottle Jump 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/bottle_jump_3d.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/bottle_jump_3d.html"
+  },
+  {
+    "id": 90,
+    "name": "Bouncemasters",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/bouncemasters.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/bouncemasters.html"
+  },
+  {
+    "id": 91,
+    "name": "Bowmasters",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/bowmasters.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/bowmasters.html"
+  },
+  {
+    "id": 92,
+    "name": "Boxing Random",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/boxing_random.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/boxing_random.html"
+  },
+  {
+    "id": 93,
+    "name": "Brawl Guys.io",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/brawl_guys_io.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/brawl_guys_io.html"
+  },
+  {
+    "id": 94,
+    "name": "Breath of the Wild NDS",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/breath_of_the_wild_nds.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/breath_of_the_wild_nds.html"
+  },
+  {
+    "id": 95,
+    "name": "Bridge Race",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/bridge_race.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/bridge_race.html"
+  },
+  {
+    "id": 96,
+    "name": "Brotato",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/brotato.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/brotato.html"
+  },
+  {
+    "id": 97,
+    "name": "Buckshot Roulette",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/buckshot_roulette.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/buckshot_roulette.html"
+  },
+  {
+    "id": 98,
+    "name": "Build a Big Army",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/build_a_big_army.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/build_a_big_army.html"
+  },
+  {
+    "id": 99,
+    "name": "Build a Plane",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/build_a_plane.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/build_a_plane.html"
+  },
+  {
+    "id": 100,
+    "name": "Build a Queen",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/build_a_queen.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/build_a_queen.html"
+  },
+  {
+    "id": 101,
+    "name": "BuildNow.gg",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/buildnow_gg.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/buildnow_gg.html"
+  },
+  {
+    "id": 102,
+    "name": "Burrito Bison: Launcha Libre",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/burrito_bison_launcha_libre.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/burrito_bison_launcha_libre.html"
+  },
+  {
+    "id": 103,
+    "name": "Bust a Loop",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/bust_a_loop.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/bust_a_loop.html"
+  },
+  {
+    "id": 104,
+    "name": "Buster Jam",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/buster_jam.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/buster_jam.html"
+  },
+  {
+    "id": 105,
+    "name": "Camouflage and Sniper",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/camouflage_and_sniper.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/camouflage_and_sniper.html"
+  },
+  {
+    "id": 106,
+    "name": "Candy Crush",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/candy_crush.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/candy_crush.html"
+  },
+  {
+    "id": 107,
+    "name": "Cannon Balls 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/cannon_balls_3d.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/cannon_balls_3d.html"
+  },
+  {
+    "id": 108,
+    "name": "Cannon Basketball",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/cannon_basketball.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/cannon_basketball.html"
+  },
+  {
+    "id": 109,
+    "name": "Cannon Basketball 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/cannon_basketball_2.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/cannon_basketball_2.html"
+  },
+  {
+    "id": 110,
+    "name": "Car Survival 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/car_survival_3d.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/car_survival_3d.html"
+  },
+  {
+    "id": 111,
+    "name": "Carrom Clash",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/carrom_clash.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/carrom_clash.html"
+  },
+  {
+    "id": 112,
+    "name": "Cat Connection",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/cat_connection.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/cat_connection.html"
+  },
+  {
+    "id": 113,
+    "name": "Cat Gunner: Super Zombie Shoot",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/cat_gunner_super_zombie_shoot.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/cat_gunner_super_zombie_shoot.html"
+  },
+  {
+    "id": 114,
+    "name": "Cave Story",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/cave_story.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/cave_story.html"
+  },
+  {
+    "id": 115,
+    "name": "Celeste",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/celeste.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/celeste.html"
+  },
+  {
+    "id": 116,
+    "name": "Celeste PICO",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/celeste_pico.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/celeste_pico.html"
+  },
+  {
+    "id": 117,
+    "name": "Cell Machine",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/cell_machine.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/cell_machine.html"
+  },
+  {
+    "id": 118,
+    "name": "CG FC 25",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/cg_fc_25.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/cg_fc_25.html"
+  },
+  {
+    "id": 119,
+    "name": "Chat Bot (A.|.I)",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/chat_bot_a_i.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/chat_bot_a_i.html"
+  },
+  {
+    "id": 120,
+    "name": "Cheese Chompers 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/cheese_chompers_3d.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/cheese_chompers_3d.html"
+  },
+  {
+    "id": 121,
+    "name": "Chess Classic",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/chess_classic.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/chess_classic.html"
+  },
+  {
+    "id": 122,
+    "name": "Chiikawa Puzzle",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/chiikawa_puzzle.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/chiikawa_puzzle.html"
+  },
+  {
+    "id": 123,
+    "name": "Choppy Orc",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/choppy_orc.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/choppy_orc.html"
+  },
+  {
+    "id": 124,
+    "name": "Christmas Massacre",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/christmas_massacre.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/christmas_massacre.html"
+  },
+  {
+    "id": 125,
+    "name": "CircloO",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/circloo.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/circloo.html"
+  },
+  {
+    "id": 126,
+    "name": "CircloO 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/circloo_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/circloo_2.html"
+  },
+  {
+    "id": 127,
+    "name": "City Defense",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/city_defense.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/city_defense.html"
+  },
+  {
+    "id": 128,
+    "name": "City Smash",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/city_smash.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/city_smash.html"
+  },
+  {
+    "id": 129,
+    "name": "Clash Of Vikings",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/clash_of_vikings.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/clash_of_vikings.html"
+  },
+  {
+    "id": 130,
+    "name": "Class of '09",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/class_of_09.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/class_of_09.html"
+  },
+  {
+    "id": 131,
+    "name": "Clothing Shop 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/clothing_shop_3d.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/clothing_shop_3d.html"
+  },
+  {
+    "id": 132,
+    "name": "Clover Pit",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/clover_pit.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/clover_pit.html"
+  },
+  {
+    "id": 133,
+    "name": "Cluster Rush",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/cluster_rush.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/cluster_rush.html"
+  },
+  {
+    "id": 134,
+    "name": "Code Editor",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/code_editor.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/code_editor.html"
+  },
+  {
+    "id": 135,
+    "name": "Color Match",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/color_match.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/color_match.html"
+  },
+  {
+    "id": 136,
+    "name": "Color Water Sort 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/color_water_sort_3d.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/color_water_sort_3d.html"
+  },
+  {
+    "id": 137,
+    "name": "[!] COMMENTS",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/comments.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/comments.html"
+  },
+  {
+    "id": 138,
+    "name": "Cookie Clicker",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/cookie_clicker.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/cookie_clicker.html"
+  },
+  {
+    "id": 139,
+    "name": "Cooking Mama",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/cooking_mama.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/cooking_mama.html"
+  },
+  {
+    "id": 140,
+    "name": "Cooking Mama 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/cooking_mama_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/cooking_mama_2.html"
+  },
+  {
+    "id": 141,
+    "name": "Cooking Mama 3",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/cooking_mama_3.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/cooking_mama_3.html"
+  },
+  {
+    "id": 142,
+    "name": "Cool Cars Run 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/cool_cars_run_3d.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/cool_cars_run_3d.html"
+  },
+  {
+    "id": 143,
+    "name": "Coreball",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/coreball.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/coreball.html"
+  },
+  {
+    "id": 144,
+    "name": "Count Masters: Stickman Games",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/count_masters_stickman_games.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/count_masters_stickman_games.html"
+  },
+  {
+    "id": 145,
+    "name": "Crazy Cars",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/crazy_cars.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/crazy_cars.html"
+  },
+  {
+    "id": 146,
+    "name": "Crazy Cattle 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/crazy_cattle_3d.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/crazy_cattle_3d.html"
+  },
+  {
+    "id": 147,
+    "name": "Crazy Chicken 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/crazy_chicken_3d.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/crazy_chicken_3d.html"
+  },
+  {
+    "id": 148,
+    "name": "Crazy Kitty 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/crazy_kitty_3d.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/crazy_kitty_3d.html"
+  },
+  {
+    "id": 149,
+    "name": "Crossy Road",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/crossy_road.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/crossy_road.html"
+  },
+  {
+    "id": 150,
+    "name": "Crush Cars 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/crush_cars_3d.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/crush_cars_3d.html"
+  },
+  {
+    "id": 151,
+    "name": "Cubefield",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/cubefield.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/cubefield.html"
+  },
+  {
+    "id": 152,
+    "name": "Cuphead",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/cuphead.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/cuphead.html"
+  },
+  {
+    "id": 153,
+    "name": "Cut the Rope",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/cut_the_rope.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/cut_the_rope.html"
+  },
+  {
+    "id": 154,
+    "name": "Cut the Rope: Holiday Gift",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/cut_the_rope_holiday_gift.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/cut_the_rope_holiday_gift.html"
+  },
+  {
+    "id": 155,
+    "name": "Cut the Rope: Time Travel",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/cut_the_rope_time_travel.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/cut_the_rope_time_travel.html"
+  },
+  {
+    "id": 156,
+    "name": "Dadish",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/dadish.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/dadish.html"
+  },
+  {
+    "id": 157,
+    "name": "Dadish 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/dadish_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/dadish_2.html"
+  },
+  {
+    "id": 158,
+    "name": "Dadish 3",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/dadish_3.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/dadish_3.html"
+  },
+  {
+    "id": 159,
+    "name": "Dadish 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/dadish_3d.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/dadish_3d.html"
+  },
+  {
+    "id": 160,
+    "name": "Daily Dadish",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/daily_dadish.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/daily_dadish.html"
+  },
+  {
+    "id": 161,
+    "name": "Dalgona Candy Honeycomb Cookie",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/dalgona_candy_honeycomb_cookie.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/dalgona_candy_honeycomb_cookie.html"
+  },
+  {
+    "id": 162,
+    "name": "Dan The Man",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/dan_the_man.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/dan_the_man.html"
+  },
+  {
+    "id": 163,
+    "name": "DEAD PLATE",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/dead_plate.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/dead_plate.html"
+  },
+  {
+    "id": 164,
+    "name": "Death Run 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/death_run_3d.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/death_run_3d.html"
+  },
+  {
+    "id": 165,
+    "name": "Deltatraveler",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/deltatraveler.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/deltatraveler.html"
+  },
+  {
+    "id": 166,
+    "name": "Destiny Run 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/destiny_run_3d.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/destiny_run_3d.html"
+  },
+  {
+    "id": 167,
+    "name": "Destroy The Car 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/destroy_the_car_3d.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/destroy_the_car_3d.html"
+  },
+  {
+    "id": 168,
+    "name": "Diamond Seeker",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/diamond_seeker.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/diamond_seeker.html"
+  },
+  {
+    "id": 169,
+    "name": "Dig Deep",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/dig_deep.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/dig_deep.html"
+  },
+  {
+    "id": 170,
+    "name": "Dimension Incident",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/dimension_incident.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/dimension_incident.html"
+  },
+  {
+    "id": 171,
+    "name": "Do NOT Take This Cat Home",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/do_not_take_this_cat_home.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/do_not_take_this_cat_home.html"
+  },
+  {
+    "id": 172,
+    "name": "Doge Miner",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/doge_miner.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/doge_miner.html"
+  },
+  {
+    "id": 173,
+    "name": "DON'T YOU LECTURE ME",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/don_t_you_lecture_me.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/don_t_you_lecture_me.html"
+  },
+  {
+    "id": 174,
+    "name": "Doodle Jump",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/doodle_jump.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/doodle_jump.html"
+  },
+  {
+    "id": 175,
+    "name": "DOOM",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/doom.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/doom.html"
+  },
+  {
+    "id": 176,
+    "name": "Doom 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/doom_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/doom_2.html"
+  },
+  {
+    "id": 177,
+    "name": "Doom 3",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/doom_3.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/doom_3.html"
+  },
+  {
+    "id": 178,
+    "name": "Dragon vs Bricks",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/dragon_vs_bricks.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/dragon_vs_bricks.html"
+  },
+  {
+    "id": 179,
+    "name": "Draw Climber",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/draw_climber.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/draw_climber.html"
+  },
+  {
+    "id": 180,
+    "name": "Draw Joust",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/draw_joust.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/draw_joust.html"
+  },
+  {
+    "id": 181,
+    "name": "Draw the Hill",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/draw_the_hill.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/draw_the_hill.html"
+  },
+  {
+    "id": 182,
+    "name": "Draw the Line",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/draw_the_line.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/draw_the_line.html"
+  },
+  {
+    "id": 183,
+    "name": "Dreadhead Parkour",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/dreadhead_parkour.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/dreadhead_parkour.html"
+  },
+  {
+    "id": 184,
+    "name": "Drift Boss",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/drift_boss.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/drift_boss.html"
+  },
+  {
+    "id": 185,
+    "name": "Drift Hunters",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/drift_hunters.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/drift_hunters.html"
+  },
+  {
+    "id": 186,
+    "name": "Driven Wild",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/driven_wild.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/driven_wild.html"
+  },
+  {
+    "id": 187,
+    "name": "Duck Life",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/duck_life.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/duck_life.html"
+  },
+  {
+    "id": 188,
+    "name": "Duck Life 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/duck_life_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/duck_life_2.html"
+  },
+  {
+    "id": 189,
+    "name": "Duck Life 3",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/duck_life_3.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/duck_life_3.html"
+  },
+  {
+    "id": 190,
+    "name": "Duck Life 4",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/duck_life_4.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/duck_life_4.html"
+  },
+  {
+    "id": 191,
+    "name": "Duck Life 5",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/duck_life_5.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/duck_life_5.html"
+  },
+  {
+    "id": 192,
+    "name": "Duck Life 8",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/duck_life_8.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/duck_life_8.html"
+  },
+  {
+    "id": 193,
+    "name": "Dumb Ways to Die",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/dumb_ways_to_die.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/dumb_ways_to_die.html"
+  },
+  {
+    "id": 194,
+    "name": "Elastic Man",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/elastic_man.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/elastic_man.html"
+  },
+  {
+    "id": 195,
+    "name": "Emulator.JS",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/emulator_js.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/emulator_js.html"
+  },
+  {
+    "id": 196,
+    "name": "Endoparasitic",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/endoparasitic.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/endoparasitic.html"
+  },
+  {
+    "id": 197,
+    "name": "Endoparasitic 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/endoparasitic_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/endoparasitic_2.html"
+  },
+  {
+    "id": 198,
+    "name": "Endroll",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/endroll.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/endroll.html"
+  },
+  {
+    "id": 199,
+    "name": "Escape Road",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/escape_road.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/escape_road.html"
+  },
+  {
+    "id": 200,
+    "name": "Escape Road 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/escape_road_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/escape_road_2.html"
+  },
+  {
+    "id": 201,
+    "name": "Escape Road City 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/escape_road_city_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/escape_road_city_2.html"
+  },
+  {
+    "id": 202,
+    "name": "Evil Glitch",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/evil_glitch.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/evil_glitch.html"
+  },
+  {
+    "id": 203,
+    "name": "Evolving Bombs 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/evolving_bombs_3d.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/evolving_bombs_3d.html"
+  },
+  {
+    "id": 204,
+    "name": "EvoWars.io",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/evowars_io.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/evowars_io.html"
+  },
+  {
+    "id": 205,
+    "name": "Fallout",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/fallout.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/fallout.html"
+  },
+  {
+    "id": 206,
+    "name": "Famidash",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/famidash.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/famidash.html"
+  },
+  {
+    "id": 207,
+    "name": "Fancy Pants Adventure",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/fancy_pants_adventure.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/fancy_pants_adventure.html"
+  },
+  {
+    "id": 208,
+    "name": "Fancy Pants Adventure 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/fancy_pants_adventure_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/fancy_pants_adventure_2.html"
+  },
+  {
+    "id": 209,
+    "name": "Fancy Pants Adventure 3",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/fancy_pants_adventure_3.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/fancy_pants_adventure_3.html"
+  },
+  {
+    "id": 210,
+    "name": "Fancy Pants Adventure 4 Part 1",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/fancy_pants_adventure_4_part_1.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/fancy_pants_adventure_4_part_1.html"
+  },
+  {
+    "id": 211,
+    "name": "Fancy Pants Adventure 4 Part 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/fancy_pants_adventure_4_part_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/fancy_pants_adventure_4_part_2.html"
+  },
+  {
+    "id": 212,
+    "name": "Fashion Battle",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/fashion_battle.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/fashion_battle.html"
+  },
+  {
+    "id": 213,
+    "name": "Fear Assessment",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/fear_assessment.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/fear_assessment.html"
+  },
+  {
+    "id": 214,
+    "name": "Fear & Hunger",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/fear_hunger.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/fear_hunger.html"
+  },
+  {
+    "id": 215,
+    "name": "Fears to Fathom: Home Alone",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/fears_to_fathom_home_alone.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/fears_to_fathom_home_alone.html"
+  },
+  {
+    "id": 216,
+    "name": "FIFA 10",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/fifa_10.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/fifa_10.html"
+  },
+  {
+    "id": 217,
+    "name": "FIFA 11",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/fifa_11.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/fifa_11.html"
+  },
+  {
+    "id": 218,
+    "name": "Final Earth 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/final_earth_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/final_earth_2.html"
+  },
+  {
+    "id": 219,
+    "name": "Final Fantasy VII",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/final_fantasy_vii.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/final_fantasy_vii.html"
+  },
+  {
+    "id": 220,
+    "name": "Find the Alien",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/find_the_alien.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/find_the_alien.html"
+  },
+  {
+    "id": 221,
+    "name": "Fire and Frost Master",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/fire_and_frost_master.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/fire_and_frost_master.html"
+  },
+  {
+    "id": 222,
+    "name": "Fireboy and Watergirl 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/fireboy_and_watergirl_2.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/fireboy_and_watergirl_2.html"
+  },
+  {
+    "id": 223,
+    "name": "Fireboy and Watergirl 3",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/fireboy_and_watergirl_3.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/fireboy_and_watergirl_3.html"
+  },
+  {
+    "id": 224,
+    "name": "Fitness Empire",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/fitness_empire.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/fitness_empire.html"
+  },
+  {
+    "id": 225,
+    "name": "Five Nights at Candy's",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/five_nights_at_candy_s.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/five_nights_at_candy_s.html"
+  },
+  {
+    "id": 226,
+    "name": "Five Nights at Candy's 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/five_nights_at_candy_s_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/five_nights_at_candy_s_2.html"
+  },
+  {
+    "id": 227,
+    "name": "Five Nights at Epstein's",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/five_nights_at_epstein_s.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/five_nights_at_epstein_s.html"
+  },
+  {
+    "id": 228,
+    "name": "Five Nights at Freddy's",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/five_nights_at_freddy_s.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/five_nights_at_freddy_s.html"
+  },
+  {
+    "id": 229,
+    "name": "Five Nights at Freddy's 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/five_nights_at_freddy_s_2.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/five_nights_at_freddy_s_2.html"
+  },
+  {
+    "id": 230,
+    "name": "Five Nights at Freddy's 3",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/five_nights_at_freddy_s_3.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/five_nights_at_freddy_s_3.html"
+  },
+  {
+    "id": 231,
+    "name": "Five Nights at Freddy's 4",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/five_nights_at_freddy_s_4.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/five_nights_at_freddy_s_4.html"
+  },
+  {
+    "id": 232,
+    "name": "Five Nights at Freddy's 4: Halloween",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/five_nights_at_freddy_s_4_halloween.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/five_nights_at_freddy_s_4_halloween.html"
+  },
+  {
+    "id": 233,
+    "name": "Five Nights at Freddy's: Pizza Simulator",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/five_nights_at_freddy_s_pizza_simulator.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/five_nights_at_freddy_s_pizza_simulator.html"
+  },
+  {
+    "id": 234,
+    "name": "Five Nights at Freddy's: Sister Location",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/five_nights_at_freddy_s_sister_location.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/five_nights_at_freddy_s_sister_location.html"
+  },
+  {
+    "id": 235,
+    "name": "Five Nights at Freddy's: Ultimate Custom Night",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/five_nights_at_freddy_s_ultimate_custom_night.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/five_nights_at_freddy_s_ultimate_custom_night.html"
+  },
+  {
+    "id": 236,
+    "name": "Five Nights at Freddy's: World",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/five_nights_at_freddy_s_world.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/five_nights_at_freddy_s_world.html"
+  },
+  {
+    "id": 237,
+    "name": "Five Nights at Freddy's: World Refreshed",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/five_nights_at_freddy_s_world_refreshed.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/five_nights_at_freddy_s_world_refreshed.html"
+  },
+  {
+    "id": 238,
+    "name": "Five Nights at Last Breath",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/five_nights_at_last_breath.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/five_nights_at_last_breath.html"
+  },
+  {
+    "id": 239,
+    "name": "Five Nights at Winston's",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/five_nights_at_winston_s.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/five_nights_at_winston_s.html"
+  },
+  {
+    "id": 240,
+    "name": "Flappy Bird",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/flappy_bird.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/flappy_bird.html"
+  },
+  {
+    "id": 241,
+    "name": "Flappy Dunk",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/flappy_dunk.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/flappy_dunk.html"
+  },
+  {
+    "id": 242,
+    "name": "Flick Goal",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/flick_goal.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/flick_goal.html"
+  },
+  {
+    "id": 243,
+    "name": "Flip Master",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/flip_master.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/flip_master.html"
+  },
+  {
+    "id": 244,
+    "name": "FNF vs Bob v2.0 (Bob’s Onslaught)",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/fnf_vs_bob_v2_0_bob_s_onslaught.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/fnf_vs_bob_v2_0_bob_s_onslaught.html"
+  },
+  {
+    "id": 245,
+    "name": "FNF Vs. Hypno's Lullaby v2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/fnf_vs_hypno_s_lullaby_v2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/fnf_vs_hypno_s_lullaby_v2.html"
+  },
+  {
+    "id": 246,
+    "name": "FNF vs Pibby Corrupted",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/fnf_vs_pibby_corrupted.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/fnf_vs_pibby_corrupted.html"
+  },
+  {
+    "id": 247,
+    "name": "FNF Vs. Sonic.EXE 3.0/4.0",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/fnf_vs_sonic_exe_3_0_4_0.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/fnf_vs_sonic_exe_3_0_4_0.html"
+  },
+  {
+    "id": 248,
+    "name": "Football Bros",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/football_bros.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/football_bros.html"
+  },
+  {
+    "id": 249,
+    "name": "Fork n Sausage",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/fork_n_sausage.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/fork_n_sausage.html"
+  },
+  {
+    "id": 250,
+    "name": "Fortzone Battle Royale",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/fortzone_battle_royale.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/fortzone_battle_royale.html"
+  },
+  {
+    "id": 251,
+    "name": "Friday Night Funkin",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin.html"
+  },
+  {
+    "id": 252,
+    "name": "Friday Night Funkin': 17 Bucks: Floor 1",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_17_bucks_floor_1.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_17_bucks_floor_1.html"
+  },
+  {
+    "id": 253,
+    "name": "Friday Night Funkin': AKAGE",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_akage.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_akage.html"
+  },
+  {
+    "id": 254,
+    "name": "Friday Night Funkin': B-Sides",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_b_sides.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_b_sides.html"
+  },
+  {
+    "id": 255,
+    "name": "Friday Night Funkin': Chaos Nightmare - Sonic Vs. Fleetway",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_chaos_nightmare_sonic_vs_fleetway.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_chaos_nightmare_sonic_vs_fleetway.html"
+  },
+  {
+    "id": 256,
+    "name": "Friday Night Funkin': Creepypasta JP",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_creepypasta_jp.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_creepypasta_jp.html"
+  },
+  {
+    "id": 257,
+    "name": "Friday Night Funkin' D-Sides",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_d_sides.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_d_sides.html"
+  },
+  {
+    "id": 258,
+    "name": "Friday Night Funkin': Darkness Takeover",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_darkness_takeover.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_darkness_takeover.html"
+  },
+  {
+    "id": 259,
+    "name": "Friday Night Funkin' Drop and Roll, but Playable",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_drop_and_roll_but_playable.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_drop_and_roll_but_playable.html"
+  },
+  {
+    "id": 260,
+    "name": "Friday Night Funkin': FIRE IN THE HOLE: Lobotomy Dash Funkin'",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_fire_in_the_hole_lobotomy_dash_funkin.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_fire_in_the_hole_lobotomy_dash_funkin.html"
+  },
+  {
+    "id": 261,
+    "name": "Friday Night Funkin': Gumballs",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_gumballs.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_gumballs.html"
+  },
+  {
+    "id": 262,
+    "name": "Friday Night Funkin': Heartbreak Havoc [Vs. Sky: REDUX]",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_heartbreak_havoc_vs_sky_redux.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_heartbreak_havoc_vs_sky_redux.html"
+  },
+  {
+    "id": 263,
+    "name": "Friday Night Funkin': Hit Single Real",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_hit_single_real.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_hit_single_real.html"
+  },
+  {
+    "id": 264,
+    "name": "Friday Night Funkin': Indie Cross",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_indie_cross.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_indie_cross.html"
+  },
+  {
+    "id": 265,
+    "name": "Friday Night Funkin': Jeffy's Endless Aethos",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_jeffy_s_endless_aethos.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_jeffy_s_endless_aethos.html"
+  },
+  {
+    "id": 266,
+    "name": "Friday Night Funkin': Mario's Madness",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_mario_s_madness.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_mario_s_madness.html"
+  },
+  {
+    "id": 267,
+    "name": "Friday Night Funkin': Mistful Crimson Morning Reboot",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_mistful_crimson_morning_reboot.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_mistful_crimson_morning_reboot.html"
+  },
+  {
+    "id": 268,
+    "name": "Friday Night Funkin': Neo",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_neo.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_neo.html"
+  },
+  {
+    "id": 269,
+    "name": "Friday Night Funkin': Pibby: Apocalypse",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_pibby_apocalypse.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_pibby_apocalypse.html"
+  },
+  {
+    "id": 270,
+    "name": "Friday Night Funkin': Rev-Mixed",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_rev_mixed.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_rev_mixed.html"
+  },
+  {
+    "id": 271,
+    "name": "Friday Night Funkin': Sarvente's Mid-Fight Masses",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_sarvente_s_mid_fight_masses.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_sarvente_s_mid_fight_masses.html"
+  },
+  {
+    "id": 272,
+    "name": "Friday Night Funkin’ Soft",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_soft.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_soft.html"
+  },
+  {
+    "id": 273,
+    "name": "Friday Night Funkin': Sonic Legacy",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_sonic_legacy.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_sonic_legacy.html"
+  },
+  {
+    "id": 274,
+    "name": "Friday Night Funkin' Sunday Night Suicide: Rookies Edition",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_sunday_night_suicide_rookies_edition.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_sunday_night_suicide_rookies_edition.html"
+  },
+  {
+    "id": 275,
+    "name": "Friday Night Funkin': TWIDDLEFINGER",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_twiddlefinger.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_twiddlefinger.html"
+  },
+  {
+    "id": 276,
+    "name": "Friday Night Funkin': V.S. Whitty",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_v_s_whitty.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_v_s_whitty.html"
+  },
+  {
+    "id": 277,
+    "name": "Friday Night Funkin': vs. BOPCITY",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_vs_bopcity.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_vs_bopcity.html"
+  },
+  {
+    "id": 278,
+    "name": "Friday Night Funkin vs Carol V2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_vs_carol_v2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_vs_carol_v2.html"
+  },
+  {
+    "id": 279,
+    "name": "Friday Night Funkin Vs. Cyber Sensation",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_vs_cyber_sensation.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_vs_cyber_sensation.html"
+  },
+  {
+    "id": 280,
+    "name": "Friday Night Funkin Vs. Dave and Bambi v3",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_vs_dave_and_bambi_v3.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_vs_dave_and_bambi_v3.html"
+  },
+  {
+    "id": 281,
+    "name": "Friday Night Funkin': vs. Garcello",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_vs_garcello.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_vs_garcello.html"
+  },
+  {
+    "id": 282,
+    "name": "Friday Night Funkin': Vs. Hatsune Miku",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_vs_hatsune_miku.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_vs_hatsune_miku.html"
+  },
+  {
+    "id": 283,
+    "name": "Friday Night Funkin': Vs. Hex",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_vs_hex.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_vs_hex.html"
+  },
+  {
+    "id": 284,
+    "name": "Friday Night Funkin' vs Hypno Lullaby",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_vs_hypno_lullaby.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_vs_hypno_lullaby.html"
+  },
+  {
+    "id": 285,
+    "name": "Friday Night Funkin': VS. Impostor: Alternated",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_vs_impostor_alternated.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_vs_impostor_alternated.html"
+  },
+  {
+    "id": 286,
+    "name": "Friday Night Funkin' VS Impostor B-Sides",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_vs_impostor_b_sides.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_vs_impostor_b_sides.html"
+  },
+  {
+    "id": 287,
+    "name": "Friday Night Funkin VS Impostor v4",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_vs_impostor_v4.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_vs_impostor_v4.html"
+  },
+  {
+    "id": 288,
+    "name": "Friday Night Funkin VS. KAPI",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_vs_kapi.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_vs_kapi.html"
+  },
+  {
+    "id": 289,
+    "name": "Friday Night Funkin vs Nonsense",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_vs_nonsense.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_vs_nonsense.html"
+  },
+  {
+    "id": 290,
+    "name": "Friday Night Funkin': vs. QT",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_vs_qt.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_vs_qt.html"
+  },
+  {
+    "id": 291,
+    "name": "Friday Night Funkin vs Shaggy",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_vs_shaggy.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_vs_shaggy.html"
+  },
+  {
+    "id": 292,
+    "name": "Friday Night Funkin VS. Sky",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_vs_sky.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_vs_sky.html"
+  },
+  {
+    "id": 293,
+    "name": "Friday Night Funkin vs Sunday Remastered HD",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_vs_sunday_remastered_hd.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_vs_sunday_remastered_hd.html"
+  },
+  {
+    "id": 294,
+    "name": "Friday Night Funkin vs Tabi",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_vs_tabi.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_vs_tabi.html"
+  },
+  {
+    "id": 295,
+    "name": "Friday Night Funkin': vs. Tricky",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_vs_tricky.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_vs_tricky.html"
+  },
+  {
+    "id": 296,
+    "name": "Friday Night Funkin vs Undertale",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_vs_undertale.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_vs_undertale.html"
+  },
+  {
+    "id": 297,
+    "name": "Friday Night Funkin vs Zardy",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_vs_zardy.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_vs_zardy.html"
+  },
+  {
+    "id": 298,
+    "name": "Friday Night Funkin’ Wednesday's Infidelity",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/friday_night_funkin_wednesday_s_infidelity.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/friday_night_funkin_wednesday_s_infidelity.html"
+  },
+  {
+    "id": 299,
+    "name": "Fruit Ninja",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/fruit_ninja.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/fruit_ninja.html"
+  },
+  {
+    "id": 300,
+    "name": "Fundamental Paper Novel",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/fundamental_paper_novel.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/fundamental_paper_novel.html"
+  },
+  {
+    "id": 301,
+    "name": "Fused 240",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/fused_240.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/fused_240.html"
+  },
+  {
+    "id": 302,
+    "name": "game inside a game inside a game inside a game inside a game inside a game",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/game_inside_a_game_inside_a_game_inside_a_game_inside_a_game_inside_a_game.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/game_inside_a_game_inside_a_game_inside_a_game_inside_a_game_inside_a_game.html"
+  },
+  {
+    "id": 303,
+    "name": "Generic Fighter Maybe",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/generic_fighter_maybe.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/generic_fighter_maybe.html"
+  },
+  {
+    "id": 304,
+    "name": "Geometry Dash Lite (REMAKE)",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/geometry_dash_lite_remake.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/geometry_dash_lite_remake.html"
+  },
+  {
+    "id": 305,
+    "name": "Get Yoked",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/get_yoked.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/get_yoked.html"
+  },
+  {
+    "id": 306,
+    "name": "Getaway Shootout",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/getaway_shootout.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/getaway_shootout.html"
+  },
+  {
+    "id": 307,
+    "name": "Getting Over It with Bennett Foddy",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/getting_over_it_with_bennett_foddy.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/getting_over_it_with_bennett_foddy.html"
+  },
+  {
+    "id": 308,
+    "name": "Giant Wanted",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/giant_wanted.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/giant_wanted.html"
+  },
+  {
+    "id": 309,
+    "name": "Gladihoppers",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/gladihoppers.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/gladihoppers.html"
+  },
+  {
+    "id": 310,
+    "name": "Gobble",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/gobble.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/gobble.html"
+  },
+  {
+    "id": 311,
+    "name": "Goblin Goopmaxxing",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/goblin_goopmaxxing.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/goblin_goopmaxxing.html"
+  },
+  {
+    "id": 312,
+    "name": "God's Flesh",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/god_s_flesh.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/god_s_flesh.html"
+  },
+  {
+    "id": 313,
+    "name": "Godzilla Daikaiju Battle Royale",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/godzilla_daikaiju_battle_royale.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/godzilla_daikaiju_battle_royale.html"
+  },
+  {
+    "id": 314,
+    "name": "Going Balls",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/going_balls.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/going_balls.html"
+  },
+  {
+    "id": 315,
+    "name": "Google Baseball",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/google_baseball.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/google_baseball.html"
+  },
+  {
+    "id": 316,
+    "name": "Google Feud",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/google_feud.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/google_feud.html"
+  },
+  {
+    "id": 317,
+    "name": "Gorilla Tag",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/gorilla_tag.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/gorilla_tag.html"
+  },
+  {
+    "id": 318,
+    "name": "Granny",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/granny.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/granny.html"
+  },
+  {
+    "id": 319,
+    "name": "Granny 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/granny_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/granny_2.html"
+  },
+  {
+    "id": 320,
+    "name": "Granny 3",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/granny_3.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/granny_3.html"
+  },
+  {
+    "id": 321,
+    "name": "groon groon, babey!",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/groon_groon_babey.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/groon_groon_babey.html"
+  },
+  {
+    "id": 322,
+    "name": "Growden.io",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/growden_io.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/growden_io.html"
+  },
+  {
+    "id": 323,
+    "name": "Guess Their Answer",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/guess_their_answer.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/guess_their_answer.html"
+  },
+  {
+    "id": 324,
+    "name": "Gun Clone",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/gun_clone.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/gun_clone.html"
+  },
+  {
+    "id": 325,
+    "name": "Gun Runner",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/gun_runner.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/gun_runner.html"
+  },
+  {
+    "id": 326,
+    "name": "Gunspin",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/gunspin.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/gunspin.html"
+  },
+  {
+    "id": 327,
+    "name": "Half Life",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/half_life.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/half_life.html"
+  },
+  {
+    "id": 328,
+    "name": "Half Life: Opposing Force",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/half_life_opposing_force.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/half_life_opposing_force.html"
+  },
+  {
+    "id": 329,
+    "name": "Happy Sheepies",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/happy_sheepies.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/happy_sheepies.html"
+  },
+  {
+    "id": 330,
+    "name": "Happy Wheels",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/happy_wheels.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/happy_wheels.html"
+  },
+  {
+    "id": 331,
+    "name": "Harvest.io",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/harvest_io.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/harvest_io.html"
+  },
+  {
+    "id": 332,
+    "name": "Hide N Seek",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/hide_n_seek.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/hide_n_seek.html"
+  },
+  {
+    "id": 333,
+    "name": "High Heels",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/high_heels.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/high_heels.html"
+  },
+  {
+    "id": 334,
+    "name": "Highway Racer",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/highway_racer.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/highway_racer.html"
+  },
+  {
+    "id": 335,
+    "name": "Highway Racer 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/highway_racer_2.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/highway_racer_2.html"
+  },
+  {
+    "id": 336,
+    "name": "Highway Racer 2 REMASTERED",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/highway_racer_2_remastered.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/highway_racer_2_remastered.html"
+  },
+  {
+    "id": 337,
+    "name": "Hill Climb Racing Lite",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/hill_climb_racing_lite.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/hill_climb_racing_lite.html"
+  },
+  {
+    "id": 338,
+    "name": "Hobo 1",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/hobo_1.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/hobo_1.html"
+  },
+  {
+    "id": 339,
+    "name": "Hobo 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/hobo_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/hobo_2.html"
+  },
+  {
+    "id": 340,
+    "name": "Hobo 3",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/hobo_3.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/hobo_3.html"
+  },
+  {
+    "id": 341,
+    "name": "Hobo 4",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/hobo_4.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/hobo_4.html"
+  },
+  {
+    "id": 342,
+    "name": "Hobo 5",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/hobo_5.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/hobo_5.html"
+  },
+  {
+    "id": 343,
+    "name": "Hobo 6",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/hobo_6.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/hobo_6.html"
+  },
+  {
+    "id": 344,
+    "name": "Hobo 7",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/hobo_7.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/hobo_7.html"
+  },
+  {
+    "id": 345,
+    "name": "Hollow Knight",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/hollow_knight.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/hollow_knight.html"
+  },
+  {
+    "id": 346,
+    "name": "Hotline Miami",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/hotline_miami.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/hotline_miami.html"
+  },
+  {
+    "id": 347,
+    "name": "House of Hazards",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/house_of_hazards.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/house_of_hazards.html"
+  },
+  {
+    "id": 348,
+    "name": "Hula Hoop Race",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/hula_hoop_race.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/hula_hoop_race.html"
+  },
+  {
+    "id": 349,
+    "name": "Human Expenditure Program",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/human_expenditure_program.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/human_expenditure_program.html"
+  },
+  {
+    "id": 350,
+    "name": "Hypper Sandbox",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/hypper_sandbox.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/hypper_sandbox.html"
+  },
+  {
+    "id": 351,
+    "name": "I woke up next to you again.",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/i_woke_up_next_to_you_again.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/i_woke_up_next_to_you_again.html"
+  },
+  {
+    "id": 352,
+    "name": "Ice Dodo",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/ice_dodo.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/ice_dodo.html"
+  },
+  {
+    "id": 353,
+    "name": "Idle Breakout",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/idle_breakout.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/idle_breakout.html"
+  },
+  {
+    "id": 354,
+    "name": "Idle Dice",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/idle_dice.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/idle_dice.html"
+  },
+  {
+    "id": 355,
+    "name": "Idle Lumber Inc",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/idle_lumber_inc.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/idle_lumber_inc.html"
+  },
+  {
+    "id": 356,
+    "name": "Idle Mining Empire",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/idle_mining_empire.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/idle_mining_empire.html"
+  },
+  {
+    "id": 357,
+    "name": "In Stars and Time",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/in_stars_and_time.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/in_stars_and_time.html"
+  },
+  {
+    "id": 358,
+    "name": "Infinimoes",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/infinimoes.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/infinimoes.html"
+  },
+  {
+    "id": 359,
+    "name": "Iron Lung",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/iron_lung.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/iron_lung.html"
+  },
+  {
+    "id": 360,
+    "name": "JavascriptPS1",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/javascriptps1.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/javascriptps1.html"
+  },
+  {
+    "id": 361,
+    "name": "Jelly Drift",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/jelly_drift.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/jelly_drift.html"
+  },
+  {
+    "id": 362,
+    "name": "Jelly Mario",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/jelly_mario.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/jelly_mario.html"
+  },
+  {
+    "id": 363,
+    "name": "Jelly Restaurant",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/jelly_restaurant.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/jelly_restaurant.html"
+  },
+  {
+    "id": 364,
+    "name": "Jetpack Joyride",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/jetpack_joyride.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/jetpack_joyride.html"
+  },
+  {
+    "id": 365,
+    "name": "Johnny Trigger",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/johnny_trigger.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/johnny_trigger.html"
+  },
+  {
+    "id": 366,
+    "name": "Journey Downhill",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/journey_downhill.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/journey_downhill.html"
+  },
+  {
+    "id": 367,
+    "name": "Jumbo Mario",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/jumbo_mario.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/jumbo_mario.html"
+  },
+  {
+    "id": 368,
+    "name": "JustFall.lol",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/justfall_lol.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/justfall_lol.html"
+  },
+  {
+    "id": 369,
+    "name": "Kaji Run",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/kaji_run.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/kaji_run.html"
+  },
+  {
+    "id": 370,
+    "name": "Karlson",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/karlson.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/karlson.html"
+  },
+  {
+    "id": 371,
+    "name": "Kindergarten",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/kindergarten.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/kindergarten.html"
+  },
+  {
+    "id": 372,
+    "name": "Kindergarten 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/kindergarten_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/kindergarten_2.html"
+  },
+  {
+    "id": 373,
+    "name": "Kindergarten 3",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/kindergarten_3.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/kindergarten_3.html"
+  },
+  {
+    "id": 374,
+    "name": "Kirby ~ Soft & Wet",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/kirby_soft_wet.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/kirby_soft_wet.html"
+  },
+  {
+    "id": 375,
+    "name": "Kirby Squeak Squad",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/kirby_squeak_squad.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/kirby_squeak_squad.html"
+  },
+  {
+    "id": 376,
+    "name": "Kirby Super Star Ultra",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/kirby_super_star_ultra.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/kirby_super_star_ultra.html"
+  },
+  {
+    "id": 377,
+    "name": "Kitchen Bazar",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/kitchen_bazar.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/kitchen_bazar.html"
+  },
+  {
+    "id": 378,
+    "name": "Kitty Toy",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/kitty_toy.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/kitty_toy.html"
+  },
+  {
+    "id": 379,
+    "name": "Lacey's Flash Games",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/lacey_s_flash_games.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/lacey_s_flash_games.html"
+  },
+  {
+    "id": 380,
+    "name": "Layers Roll",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/layers_roll.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/layers_roll.html"
+  },
+  {
+    "id": 381,
+    "name": "Lazy Jumper",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/lazy_jumper.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/lazy_jumper.html"
+  },
+  {
+    "id": 382,
+    "name": "Learn to Fly",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/learn_to_fly.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/learn_to_fly.html"
+  },
+  {
+    "id": 383,
+    "name": "Learn to Fly 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/learn_to_fly_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/learn_to_fly_2.html"
+  },
+  {
+    "id": 384,
+    "name": "Learn to Fly 3",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/learn_to_fly_3.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/learn_to_fly_3.html"
+  },
+  {
+    "id": 385,
+    "name": "Learn to Fly Idle",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/learn_to_fly_idle.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/learn_to_fly_idle.html"
+  },
+  {
+    "id": 386,
+    "name": "Line Rider",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/line_rider.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/line_rider.html"
+  },
+  {
+    "id": 387,
+    "name": "Little Runmo",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/little_runmo.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/little_runmo.html"
+  },
+  {
+    "id": 388,
+    "name": "Look Outside",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/look_outside.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/look_outside.html"
+  },
+  {
+    "id": 389,
+    "name": "Love Letters",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/love_letters.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/love_letters.html"
+  },
+  {
+    "id": 390,
+    "name": "Madalin Stunt Cars 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/madalin_stunt_cars_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/madalin_stunt_cars_2.html"
+  },
+  {
+    "id": 391,
+    "name": "Madalin Stunt Cars 3",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/madalin_stunt_cars_3.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/madalin_stunt_cars_3.html"
+  },
+  {
+    "id": 392,
+    "name": "Madness Combat: Project Nexus (classic)",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/madness_combat_project_nexus_classic.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/madness_combat_project_nexus_classic.html"
+  },
+  {
+    "id": 393,
+    "name": "Magic Tiles 3",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/magic_tiles_3.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/magic_tiles_3.html"
+  },
+  {
+    "id": 394,
+    "name": "Make a SuperBoat",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/make_a_superboat.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/make_a_superboat.html"
+  },
+  {
+    "id": 395,
+    "name": "Makeover Run",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/makeover_run.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/makeover_run.html"
+  },
+  {
+    "id": 396,
+    "name": "Man Runner 2048",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/man_runner_2048.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/man_runner_2048.html"
+  },
+  {
+    "id": 397,
+    "name": "Match Triple 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/match_triple_3d.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/match_triple_3d.html"
+  },
+  {
+    "id": 398,
+    "name": "Maze Speedrun",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/maze_speedrun.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/maze_speedrun.html"
+  },
+  {
+    "id": 399,
+    "name": "Meatboy",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/meatboy.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/meatboy.html"
+  },
+  {
+    "id": 400,
+    "name": "Mega Car Jumps",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/mega_car_jumps.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/mega_car_jumps.html"
+  },
+  {
+    "id": 401,
+    "name": "Melon Playground",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/melon_playground.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/melon_playground.html"
+  },
+  {
+    "id": 402,
+    "name": "Merge Harvest",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/merge_harvest.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/merge_harvest.html"
+  },
+  {
+    "id": 403,
+    "name": "Metal Gear Solid",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/metal_gear_solid.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/metal_gear_solid.html"
+  },
+  {
+    "id": 404,
+    "name": "Midnight Shift",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/midnight_shift.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/midnight_shift.html"
+  },
+  {
+    "id": 405,
+    "name": "Milk Inside a Bag of Milk Inside a Bag of Milk",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/milk_inside_a_bag_of_milk_inside_a_bag_of_milk.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/milk_inside_a_bag_of_milk_inside_a_bag_of_milk.html"
+  },
+  {
+    "id": 406,
+    "name": "Milk Outside A Bag Of Milk Outside A Bag Of Milk",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/milk_outside_a_bag_of_milk_outside_a_bag_of_milk.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/milk_outside_a_bag_of_milk_outside_a_bag_of_milk.html"
+  },
+  {
+    "id": 407,
+    "name": "Mindwave",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/mindwave.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/mindwave.html"
+  },
+  {
+    "id": 408,
+    "name": "Minecraft 1.12.2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/minecraft_1_12_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/minecraft_1_12_2.html"
+  },
+  {
+    "id": 409,
+    "name": "Minecraft 1.21.4",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/minecraft_1_21_4.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/minecraft_1_21_4.html"
+  },
+  {
+    "id": 410,
+    "name": "Minecraft 1.5.2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/minecraft_1_5_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/minecraft_1_5_2.html"
+  },
+  {
+    "id": 411,
+    "name": "Minecraft 1.8.8",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/minecraft_1_8_8.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/minecraft_1_8_8.html"
+  },
+  {
+    "id": 412,
+    "name": "Minecraft Alpha 1.2.6",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/minecraft_alpha_1_2_6.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/minecraft_alpha_1_2_6.html"
+  },
+  {
+    "id": 413,
+    "name": "Minecraft Beta 1.3",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/minecraft_beta_1_3.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/minecraft_beta_1_3.html"
+  },
+  {
+    "id": 414,
+    "name": "Minecraft Beta 1.7.3",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/minecraft_beta_1_7_3.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/minecraft_beta_1_7_3.html"
+  },
+  {
+    "id": 415,
+    "name": "Minecraft Indev",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/minecraft_indev.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/minecraft_indev.html"
+  },
+  {
+    "id": 416,
+    "name": "Minesweeper Mania",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/minesweeper_mania.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/minesweeper_mania.html"
+  },
+  {
+    "id": 417,
+    "name": "Minesweeper Plus",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/minesweeper_plus.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/minesweeper_plus.html"
+  },
+  {
+    "id": 418,
+    "name": "Mob Control HTML5",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/mob_control_html5.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/mob_control_html5.html"
+  },
+  {
+    "id": 419,
+    "name": "Money Rush",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/money_rush.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/money_rush.html"
+  },
+  {
+    "id": 420,
+    "name": "Monster Box 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/monster_box_3d.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/monster_box_3d.html"
+  },
+  {
+    "id": 421,
+    "name": "Monster Tracks",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/monster_tracks.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/monster_tracks.html"
+  },
+  {
+    "id": 422,
+    "name": "Moto X3M",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/moto_x3m.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/moto_x3m.html"
+  },
+  {
+    "id": 423,
+    "name": "Moto X3M 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/moto_x3m_2.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/moto_x3m_2.html"
+  },
+  {
+    "id": 424,
+    "name": "Moto X3M 3",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/moto_x3m_3.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/moto_x3m_3.html"
+  },
+  {
+    "id": 425,
+    "name": "Moto X3M Pool Party",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/moto_x3m_pool_party.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/moto_x3m_pool_party.html"
+  },
+  {
+    "id": 426,
+    "name": "Moto X3M Spooky",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/moto_x3m_spooky.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/moto_x3m_spooky.html"
+  },
+  {
+    "id": 427,
+    "name": "Moto X3M Winter",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/moto_x3m_winter.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/moto_x3m_winter.html"
+  },
+  {
+    "id": 428,
+    "name": "Mutilate a Doll 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/mutilate_a_doll_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/mutilate_a_doll_2.html"
+  },
+  {
+    "id": 429,
+    "name": "myTeardrop",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/myteardrop.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/myteardrop.html"
+  },
+  {
+    "id": 430,
+    "name": "n-gon",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/n_gon.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/n_gon.html"
+  },
+  {
+    "id": 431,
+    "name": "Nazi Zombies: Portable",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/nazi_zombies_portable.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/nazi_zombies_portable.html"
+  },
+  {
+    "id": 432,
+    "name": "Needy Streamer Overload",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/needy_streamer_overload.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/needy_streamer_overload.html"
+  },
+  {
+    "id": 433,
+    "name": "Newgrounds Rumble",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/newgrounds_rumble.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/newgrounds_rumble.html"
+  },
+  {
+    "id": 434,
+    "name": "Nijika's Ahoge",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/nijika_s_ahoge.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/nijika_s_ahoge.html"
+  },
+  {
+    "id": 435,
+    "name": "Ninja vs EvilCorp",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/ninja_vs_evilcorp.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/ninja_vs_evilcorp.html"
+  },
+  {
+    "id": 436,
+    "name": "Nubby's Number Factory",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/nubby_s_number_factory.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/nubby_s_number_factory.html"
+  },
+  {
+    "id": 437,
+    "name": "Off",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/off.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/off.html"
+  },
+  {
+    "id": 438,
+    "name": "Office Fight",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/office_fight.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/office_fight.html"
+  },
+  {
+    "id": 439,
+    "name": "Offroad Mountain Bike",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/offroad_mountain_bike.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/offroad_mountain_bike.html"
+  },
+  {
+    "id": 440,
+    "name": "Om Nom Run",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/om_nom_run.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/om_nom_run.html"
+  },
+  {
+    "id": 441,
+    "name": "OMORI",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/omori.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/omori.html"
+  },
+  {
+    "id": 442,
+    "name": "Oneshot (LEGACY)",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/oneshot_legacy.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/oneshot_legacy.html"
+  },
+  {
+    "id": 443,
+    "name": "Orange Roulette",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/orange_roulette.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/orange_roulette.html"
+  },
+  {
+    "id": 444,
+    "name": "Oshi Oshi Punch!",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/oshi_oshi_punch.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/oshi_oshi_punch.html"
+  },
+  {
+    "id": 445,
+    "name": "osu!",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/osu.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/osu.html"
+  },
+  {
+    "id": 446,
+    "name": "OvO",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/ovo.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/ovo.html"
+  },
+  {
+    "id": 447,
+    "name": "OvO 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/ovo_2.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/ovo_2.html"
+  },
+  {
+    "id": 448,
+    "name": "OvO 3 Dimensions",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/ovo_3_dimensions.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/ovo_3_dimensions.html"
+  },
+  {
+    "id": 449,
+    "name": "Pac-Man Superfast",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/pac_man_superfast.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/pac_man_superfast.html"
+  },
+  {
+    "id": 450,
+    "name": "Pac Man World",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/pac_man_world.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/pac_man_world.html"
+  },
+  {
+    "id": 451,
+    "name": "Pac Man World 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/pac_man_world_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/pac_man_world_2.html"
+  },
+  {
+    "id": 452,
+    "name": "PacMan (Horror)",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/pacman_horror.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/pacman_horror.html"
+  },
+  {
+    "id": 453,
+    "name": "Papa's Bakeria",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/papa_s_bakeria.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/papa_s_bakeria.html"
+  },
+  {
+    "id": 454,
+    "name": "Papa's Burgeria",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/papa_s_burgeria.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/papa_s_burgeria.html"
+  },
+  {
+    "id": 455,
+    "name": "Papa's Cheeseria",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/papa_s_cheeseria.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/papa_s_cheeseria.html"
+  },
+  {
+    "id": 456,
+    "name": "Papa's Cupcakeria",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/papa_s_cupcakeria.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/papa_s_cupcakeria.html"
+  },
+  {
+    "id": 457,
+    "name": "Papa's Donuteria",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/papa_s_donuteria.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/papa_s_donuteria.html"
+  },
+  {
+    "id": 458,
+    "name": "Papa's Freezeria",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/papa_s_freezeria.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/papa_s_freezeria.html"
+  },
+  {
+    "id": 459,
+    "name": "Papa's Hot Doggeria",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/papa_s_hot_doggeria.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/papa_s_hot_doggeria.html"
+  },
+  {
+    "id": 460,
+    "name": "Papa's Pancakeria",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/papa_s_pancakeria.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/papa_s_pancakeria.html"
+  },
+  {
+    "id": 461,
+    "name": "Papa's Pastaria",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/papa_s_pastaria.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/papa_s_pastaria.html"
+  },
+  {
+    "id": 462,
+    "name": "Papa's Pizeria",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/papa_s_pizeria.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/papa_s_pizeria.html"
+  },
+  {
+    "id": 463,
+    "name": "Papa's Scooperia",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/papa_s_scooperia.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/papa_s_scooperia.html"
+  },
+  {
+    "id": 464,
+    "name": "Papa's Sushiria",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/papa_s_sushiria.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/papa_s_sushiria.html"
+  },
+  {
+    "id": 465,
+    "name": "Papa's Taco Mia",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/papa_s_taco_mia.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/papa_s_taco_mia.html"
+  },
+  {
+    "id": 466,
+    "name": "Papa's Wingeria",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/papa_s_wingeria.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/papa_s_wingeria.html"
+  },
+  {
+    "id": 467,
+    "name": "Paper.io 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/paper_io_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/paper_io_2.html"
+  },
+  {
+    "id": 468,
+    "name": "Papers, Please",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/papers_please.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/papers_please.html"
+  },
+  {
+    "id": 469,
+    "name": "Papery Planes",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/papery_planes.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/papery_planes.html"
+  },
+  {
+    "id": 470,
+    "name": "Parappa The Rapper",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/parappa_the_rapper.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/parappa_the_rapper.html"
+  },
+  {
+    "id": 471,
+    "name": "Parking Fury 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/parking_fury_3d.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/parking_fury_3d.html"
+  },
+  {
+    "id": 472,
+    "name": "Parking Rush",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/parking_rush.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/parking_rush.html"
+  },
+  {
+    "id": 473,
+    "name": "Peaks of Yore",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/peaks_of_yore.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/peaks_of_yore.html"
+  },
+  {
+    "id": 474,
+    "name": "Peggle",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/peggle.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/peggle.html"
+  },
+  {
+    "id": 475,
+    "name": "People Playground",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/people_playground.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/people_playground.html"
+  },
+  {
+    "id": 476,
+    "name": "Pico's School (1999)",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/pico_s_school_1999.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/pico_s_school_1999.html"
+  },
+  {
+    "id": 477,
+    "name": "Pixel Gun Survival",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/pixel_gun_survival.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/pixel_gun_survival.html"
+  },
+  {
+    "id": 478,
+    "name": "Pizza Tower",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/pizza_tower.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/pizza_tower.html"
+  },
+  {
+    "id": 479,
+    "name": "Pizza Tower: Scoutdigo",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/pizza_tower_scoutdigo.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/pizza_tower_scoutdigo.html"
+  },
+  {
+    "id": 480,
+    "name": "Plants vs Zombies",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/plants_vs_zombies.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/plants_vs_zombies.html"
+  },
+  {
+    "id": 481,
+    "name": "Plants vs. Zombies 2 Gardenless",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/plants_vs_zombies_2_gardenless.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/plants_vs_zombies_2_gardenless.html"
+  },
+  {
+    "id": 482,
+    "name": "Play!.js",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/play_js.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/play_js.html"
+  },
+  {
+    "id": 483,
+    "name": "Please Dont Touch Anything",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/please_dont_touch_anything.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/please_dont_touch_anything.html"
+  },
+  {
+    "id": 484,
+    "name": "Plinko",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/plinko.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/plinko.html"
+  },
+  {
+    "id": 485,
+    "name": "Pokemon Emerald",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/pokemon_emerald.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/pokemon_emerald.html"
+  },
+  {
+    "id": 486,
+    "name": "Pokemon Firered",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/pokemon_firered.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/pokemon_firered.html"
+  },
+  {
+    "id": 487,
+    "name": "Pokemon HeartGold",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/pokemon_heartgold.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/pokemon_heartgold.html"
+  },
+  {
+    "id": 488,
+    "name": "Pokemon Red",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/pokemon_red.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/pokemon_red.html"
+  },
+  {
+    "id": 489,
+    "name": "Pokey Ball",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/pokey_ball.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/pokey_ball.html"
+  },
+  {
+    "id": 490,
+    "name": "Poly Track",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/poly_track.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/poly_track.html"
+  },
+  {
+    "id": 491,
+    "name": "PortaBoy+",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/portaboy.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/portaboy.html"
+  },
+  {
+    "id": 492,
+    "name": "Postal",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/postal.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/postal.html"
+  },
+  {
+    "id": 493,
+    "name": "Pottery Master",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/pottery_master.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/pottery_master.html"
+  },
+  {
+    "id": 494,
+    "name": "Pou",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/pou.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/pou.html"
+  },
+  {
+    "id": 495,
+    "name": "Power Hover",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/power_hover.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/power_hover.html"
+  },
+  {
+    "id": 496,
+    "name": "Protektor",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/protektor.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/protektor.html"
+  },
+  {
+    "id": 497,
+    "name": "Quake III Arena",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/quake_iii_arena.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/quake_iii_arena.html"
+  },
+  {
+    "id": 498,
+    "name": "R.E.P.O",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/r_e_p_o.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/r_e_p_o.html"
+  },
+  {
+    "id": 499,
+    "name": "Race Master 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/race_master_3d.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/race_master_3d.html"
+  },
+  {
+    "id": 500,
+    "name": "Raft",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/raft.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/raft.html"
+  },
+  {
+    "id": 501,
+    "name": "Raft Wars",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/raft_wars.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/raft_wars.html"
+  },
+  {
+    "id": 502,
+    "name": "Raft Wars 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/raft_wars_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/raft_wars_2.html"
+  },
+  {
+    "id": 503,
+    "name": "Ragdoll Archers",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/ragdoll_archers.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/ragdoll_archers.html"
+  },
+  {
+    "id": 504,
+    "name": "Ragdoll Hit",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/ragdoll_hit.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/ragdoll_hit.html"
+  },
+  {
+    "id": 505,
+    "name": "Rainbow Obby",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/rainbow_obby.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/rainbow_obby.html"
+  },
+  {
+    "id": 506,
+    "name": "Raldi's Crackhouse",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/raldi_s_crackhouse.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/raldi_s_crackhouse.html"
+  },
+  {
+    "id": 507,
+    "name": "RE:RUN",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/re_run.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/re_run.html"
+  },
+  {
+    "id": 508,
+    "name": "Real Flight Simulator",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/real_flight_simulator.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/real_flight_simulator.html"
+  },
+  {
+    "id": 509,
+    "name": "Recoil",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/recoil.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/recoil.html"
+  },
+  {
+    "id": 510,
+    "name": "Red Ball",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/red_ball.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/red_ball.html"
+  },
+  {
+    "id": 511,
+    "name": "Red Ball 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/red_ball_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/red_ball_2.html"
+  },
+  {
+    "id": 512,
+    "name": "Red Ball 3",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/red_ball_3.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/red_ball_3.html"
+  },
+  {
+    "id": 513,
+    "name": "Red Ball 4",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/red_ball_4.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/red_ball_4.html"
+  },
+  {
+    "id": 514,
+    "name": "Red Ball 4 Vol. 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/red_ball_4_vol_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/red_ball_4_vol_2.html"
+  },
+  {
+    "id": 515,
+    "name": "Red Ball 4 Vol. 3",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/red_ball_4_vol_3.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/red_ball_4_vol_3.html"
+  },
+  {
+    "id": 516,
+    "name": "Resident Evil",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/resident_evil.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/resident_evil.html"
+  },
+  {
+    "id": 517,
+    "name": "Resident Evil 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/resident_evil_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/resident_evil_2.html"
+  },
+  {
+    "id": 518,
+    "name": "Retro Bowl",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/retro_bowl.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/retro_bowl.html"
+  },
+  {
+    "id": 519,
+    "name": "Retro Bowl College",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/retro_bowl_college.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/retro_bowl_college.html"
+  },
+  {
+    "id": 520,
+    "name": "Rich Run 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/rich_run_3d.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/rich_run_3d.html"
+  },
+  {
+    "id": 521,
+    "name": "Riddle School",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/riddle_school.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/riddle_school.html"
+  },
+  {
+    "id": 522,
+    "name": "Riddle School 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/riddle_school_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/riddle_school_2.html"
+  },
+  {
+    "id": 523,
+    "name": "Riddle School 3",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/riddle_school_3.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/riddle_school_3.html"
+  },
+  {
+    "id": 524,
+    "name": "Riddle School 4",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/riddle_school_4.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/riddle_school_4.html"
+  },
+  {
+    "id": 525,
+    "name": "Riddle School 5",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/riddle_school_5.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/riddle_school_5.html"
+  },
+  {
+    "id": 526,
+    "name": "Riddle Transfer",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/riddle_transfer.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/riddle_transfer.html"
+  },
+  {
+    "id": 527,
+    "name": "Riddle Transfer 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/riddle_transfer_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/riddle_transfer_2.html"
+  },
+  {
+    "id": 528,
+    "name": "RigBMX",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/rigbmx.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/rigbmx.html"
+  },
+  {
+    "id": 529,
+    "name": "RigBMX 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/rigbmx_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/rigbmx_2.html"
+  },
+  {
+    "id": 530,
+    "name": "Rio Rex",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/rio_rex.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/rio_rex.html"
+  },
+  {
+    "id": 531,
+    "name": "Road of Fury",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/road_of_fury.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/road_of_fury.html"
+  },
+  {
+    "id": 532,
+    "name": "Robot Invasion",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/robot_invasion.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/robot_invasion.html"
+  },
+  {
+    "id": 533,
+    "name": "Rogue Sergeant The Final Operation",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/rogue_sergeant_the_final_operation.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/rogue_sergeant_the_final_operation.html"
+  },
+  {
+    "id": 534,
+    "name": "Rolling Sky",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/rolling_sky.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/rolling_sky.html"
+  },
+  {
+    "id": 535,
+    "name": "Rolly Vortex",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/rolly_vortex.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/rolly_vortex.html"
+  },
+  {
+    "id": 536,
+    "name": "Rooftop Snipers",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/rooftop_snipers.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/rooftop_snipers.html"
+  },
+  {
+    "id": 537,
+    "name": "Rooftop Snipers 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/rooftop_snipers_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/rooftop_snipers_2.html"
+  },
+  {
+    "id": 538,
+    "name": "Room Sort",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/room_sort.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/room_sort.html"
+  },
+  {
+    "id": 539,
+    "name": "Roulette Hero",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/roulette_hero.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/roulette_hero.html"
+  },
+  {
+    "id": 540,
+    "name": "Royal Towers: Medieval TD",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/royal_towers_medieval_td.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/royal_towers_medieval_td.html"
+  },
+  {
+    "id": 541,
+    "name": "Ruffle",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/ruffle.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/ruffle.html"
+  },
+  {
+    "id": 542,
+    "name": "Run 1",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/run_1.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/run_1.html"
+  },
+  {
+    "id": 543,
+    "name": "Run 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/run_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/run_2.html"
+  },
+  {
+    "id": 544,
+    "name": "Run 3",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/run_3.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/run_3.html"
+  },
+  {
+    "id": 545,
+    "name": "Saihate Station (さいはて駅)",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/saihate_station.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/saihate_station.html"
+  },
+  {
+    "id": 546,
+    "name": "Sandboxels",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/sandboxels.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/sandboxels.html"
+  },
+  {
+    "id": 547,
+    "name": "sandspiel",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/sandspiel.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/sandspiel.html"
+  },
+  {
+    "id": 548,
+    "name": "sandstone",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/sandstone.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/sandstone.html"
+  },
+  {
+    "id": 549,
+    "name": "Sandtris",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/sandtris.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/sandtris.html"
+  },
+  {
+    "id": 550,
+    "name": "Schoolboy Runaway",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/schoolboy_runaway.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/schoolboy_runaway.html"
+  },
+  {
+    "id": 551,
+    "name": "Scrap Metal 3",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/scrap_metal_3.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/scrap_metal_3.html"
+  },
+  {
+    "id": 552,
+    "name": "Seat Jam 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/seat_jam_3d.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/seat_jam_3d.html"
+  },
+  {
+    "id": 553,
+    "name": "Shapez.io",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/shapez_io.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/shapez_io.html"
+  },
+  {
+    "id": 554,
+    "name": "Shift at Midnight",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/shift_at_midnight.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/shift_at_midnight.html"
+  },
+  {
+    "id": 555,
+    "name": "Shipo.io",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/shipo_io.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/shipo_io.html"
+  },
+  {
+    "id": 556,
+    "name": "Shooting Master",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/shooting_master.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/shooting_master.html"
+  },
+  {
+    "id": 557,
+    "name": "Shovel 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/shovel_3d.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/shovel_3d.html"
+  },
+  {
+    "id": 558,
+    "name": "ShredSauce",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/shredsauce.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/shredsauce.html"
+  },
+  {
+    "id": 559,
+    "name": "Side Effects",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/side_effects.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/side_effects.html"
+  },
+  {
+    "id": 560,
+    "name": "Silent Hill",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/silent_hill.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/silent_hill.html"
+  },
+  {
+    "id": 561,
+    "name": "Sky Riders",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/sky_riders.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/sky_riders.html"
+  },
+  {
+    "id": 562,
+    "name": "Slender: The 8 Pages",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/slender_the_8_pages.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/slender_the_8_pages.html"
+  },
+  {
+    "id": 563,
+    "name": "Slice it All",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/slice_it_all.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/slice_it_all.html"
+  },
+  {
+    "id": 564,
+    "name": "Slime.io",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/slime_io.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/slime_io.html"
+  },
+  {
+    "id": 565,
+    "name": "Slime Rancher",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/slime_rancher.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/slime_rancher.html"
+  },
+  {
+    "id": 566,
+    "name": "Slither.io",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/slither_io.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/slither_io.html"
+  },
+  {
+    "id": 567,
+    "name": "Slope",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/slope.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/slope.html"
+  },
+  {
+    "id": 568,
+    "name": "Slope 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/slope_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/slope_2.html"
+  },
+  {
+    "id": 569,
+    "name": "Slowroads",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/slowroads.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/slowroads.html"
+  },
+  {
+    "id": 570,
+    "name": "Smash Karts",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/smash_karts.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/smash_karts.html"
+  },
+  {
+    "id": 571,
+    "name": "Snow Rider 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/snow_rider_3d.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/snow_rider_3d.html"
+  },
+  {
+    "id": 572,
+    "name": "Snowbattle.io",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/snowbattle_io.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/snowbattle_io.html"
+  },
+  {
+    "id": 573,
+    "name": "Soccer Random",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/soccer_random.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/soccer_random.html"
+  },
+  {
+    "id": 574,
+    "name": "Solar Smash",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/solar_smash.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/solar_smash.html"
+  },
+  {
+    "id": 575,
+    "name": "Sonic CD",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/sonic_cd.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/sonic_cd.html"
+  },
+  {
+    "id": 576,
+    "name": "Sonic.EXE",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/sonic_exe.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/sonic_exe.html"
+  },
+  {
+    "id": 577,
+    "name": "Sonic.EXE (ORIGINAL)",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/sonic_exe_original.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/sonic_exe_original.html"
+  },
+  {
+    "id": 578,
+    "name": "Sonic Mania",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/sonic_mania.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/sonic_mania.html"
+  },
+  {
+    "id": 579,
+    "name": "Sonic the Hedgehog 2: Community's Cut",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/sonic_the_hedgehog_2_community_s_cut.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/sonic_the_hedgehog_2_community_s_cut.html"
+  },
+  {
+    "id": 580,
+    "name": "Sonic the Hedgehog 3: Angel Island Remastered",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/sonic_the_hedgehog_3_angel_island_remastered.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/sonic_the_hedgehog_3_angel_island_remastered.html"
+  },
+  {
+    "id": 581,
+    "name": "Sort the Court",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/sort_the_court.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/sort_the_court.html"
+  },
+  {
+    "id": 582,
+    "name": "Soundboard",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/soundboard.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/soundboard.html"
+  },
+  {
+    "id": 583,
+    "name": "Space Funeral",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/space_funeral.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/space_funeral.html"
+  },
+  {
+    "id": 584,
+    "name": "Space Waves",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/space_waves.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/space_waves.html"
+  },
+  {
+    "id": 585,
+    "name": "Spacebar Clicker",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/spacebar_clicker.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/spacebar_clicker.html"
+  },
+  {
+    "id": 586,
+    "name": "Spelunky Classic HD",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/spelunky_classic_hd.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/spelunky_classic_hd.html"
+  },
+  {
+    "id": 587,
+    "name": "SpiderDoll",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/spiderdoll.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/spiderdoll.html"
+  },
+  {
+    "id": 588,
+    "name": "Spiral Roll",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/spiral_roll.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/spiral_roll.html"
+  },
+  {
+    "id": 589,
+    "name": "SpongeBob SquarePants: Krabby Katch",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/spongebob_squarepants_krabby_katch.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/spongebob_squarepants_krabby_katch.html"
+  },
+  {
+    "id": 590,
+    "name": "SpongeBob SquarePants: Land Ho!",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/spongebob_squarepants_land_ho.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/spongebob_squarepants_land_ho.html"
+  },
+  {
+    "id": 591,
+    "name": "SpongeBob SquarePants: Sandy's Sponge Stacker",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/spongebob_squarepants_sandy_s_sponge_stacker.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/spongebob_squarepants_sandy_s_sponge_stacker.html"
+  },
+  {
+    "id": 592,
+    "name": "SpongeBob SquarePants: SpongeBob Run",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/spongebob_squarepants_spongebob_run.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/spongebob_squarepants_spongebob_run.html"
+  },
+  {
+    "id": 593,
+    "name": "SpongeBob SquarePants: Squidward's Sizzlin' Scare",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/spongebob_squarepants_squidward_s_sizzlin_scare.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/spongebob_squarepants_squidward_s_sizzlin_scare.html"
+  },
+  {
+    "id": 594,
+    "name": "SpongeBob SquarePants: Tasty Pastry Party",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/spongebob_squarepants_tasty_pastry_party.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/spongebob_squarepants_tasty_pastry_party.html"
+  },
+  {
+    "id": 595,
+    "name": "SpongeBob SquarePants: The Kah-Ray-Tay Squid",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/spongebob_squarepants_the_kah_ray_tay_squid.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/spongebob_squarepants_the_kah_ray_tay_squid.html"
+  },
+  {
+    "id": 596,
+    "name": "SpongeBob SquarePants: WereSquirrel",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/spongebob_squarepants_weresquirrel.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/spongebob_squarepants_weresquirrel.html"
+  },
+  {
+    "id": 597,
+    "name": "Sprunki",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/sprunki.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/sprunki.html"
+  },
+  {
+    "id": 598,
+    "name": "Stacky Dash",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/stacky_dash.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/stacky_dash.html"
+  },
+  {
+    "id": 599,
+    "name": "State.io",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/state_io.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/state_io.html"
+  },
+  {
+    "id": 600,
+    "name": "Station 141",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/station_141.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/station_141.html"
+  },
+  {
+    "id": 601,
+    "name": "Station Saturn",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/station_saturn.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/station_saturn.html"
+  },
+  {
+    "id": 602,
+    "name": "Steal A Brainrot",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/steal_a_brainrot.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/steal_a_brainrot.html"
+  },
+  {
+    "id": 603,
+    "name": "Steal Brainrot Online",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/steal_brainrot_online.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/steal_brainrot_online.html"
+  },
+  {
+    "id": 604,
+    "name": "Stick War: Legacy",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/stick_war_legacy.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/stick_war_legacy.html"
+  },
+  {
+    "id": 605,
+    "name": "Stick With It",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/stick_with_it.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/stick_with_it.html"
+  },
+  {
+    "id": 606,
+    "name": "Stickman and Guns",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/stickman_and_guns.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/stickman_and_guns.html"
+  },
+  {
+    "id": 607,
+    "name": "Stickman Boost",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/stickman_boost.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/stickman_boost.html"
+  },
+  {
+    "id": 608,
+    "name": "Stickman Climb",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/stickman_climb.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/stickman_climb.html"
+  },
+  {
+    "id": 609,
+    "name": "Stickman Destruction",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/stickman_destruction.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/stickman_destruction.html"
+  },
+  {
+    "id": 610,
+    "name": "Stickman Fight Ragdoll",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/stickman_fight_ragdoll.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/stickman_fight_ragdoll.html"
+  },
+  {
+    "id": 611,
+    "name": "Stickman Golf",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/stickman_golf.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/stickman_golf.html"
+  },
+  {
+    "id": 612,
+    "name": "Stickman Hook",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/stickman_hook.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/stickman_hook.html"
+  },
+  {
+    "id": 613,
+    "name": "Stone Grass Mowing Simulator",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/stone_grass_mowing_simulator.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/stone_grass_mowing_simulator.html"
+  },
+  {
+    "id": 614,
+    "name": "Super Mario 63",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/super_mario_63.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/super_mario_63.html"
+  },
+  {
+    "id": 615,
+    "name": "Super Mario 64",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/super_mario_64.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/super_mario_64.html"
+  },
+  {
+    "id": 616,
+    "name": "Super Mario Bros",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/super_mario_bros.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/super_mario_bros.html"
+  },
+  {
+    "id": 617,
+    "name": "Super Mario Bros. Remastered",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/super_mario_bros_remastered.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/super_mario_bros_remastered.html"
+  },
+  {
+    "id": 618,
+    "name": "Super Monkey Ball 1&2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/super_monkey_ball_1_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/super_monkey_ball_1_2.html"
+  },
+  {
+    "id": 619,
+    "name": "Super Smash Flash",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/super_smash_flash.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/super_smash_flash.html"
+  },
+  {
+    "id": 620,
+    "name": "Super Star Car",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/super_star_car.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/super_star_car.html"
+  },
+  {
+    "id": 621,
+    "name": "Superhot",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/superhot.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/superhot.html"
+  },
+  {
+    "id": 622,
+    "name": "Supermarket 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/supermarket_3d.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/supermarket_3d.html"
+  },
+  {
+    "id": 623,
+    "name": "Supreme Duelist",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/supreme_duelist.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/supreme_duelist.html"
+  },
+  {
+    "id": 624,
+    "name": "Survival Race",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/survival_race.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/survival_race.html"
+  },
+  {
+    "id": 625,
+    "name": "Survive to Victory",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/survive_to_victory.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/survive_to_victory.html"
+  },
+  {
+    "id": 626,
+    "name": "Survivor.io",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/survivor_io.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/survivor_io.html"
+  },
+  {
+    "id": 627,
+    "name": "Sushi Roll",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/sushi_roll.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/sushi_roll.html"
+  },
+  {
+    "id": 628,
+    "name": "Swordfight!!",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/swordfight.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/swordfight.html"
+  },
+  {
+    "id": 629,
+    "name": "Swords and Souls",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/swords_and_souls.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/swords_and_souls.html"
+  },
+  {
+    "id": 630,
+    "name": "Tag",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/tag.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/tag.html"
+  },
+  {
+    "id": 631,
+    "name": "Tall.io",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/tall_io.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/tall_io.html"
+  },
+  {
+    "id": 632,
+    "name": "Tall Man Run",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/tall_man_run.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/tall_man_run.html"
+  },
+  {
+    "id": 633,
+    "name": "Tanuki Sunset",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/tanuki_sunset.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/tanuki_sunset.html"
+  },
+  {
+    "id": 634,
+    "name": "Tattletail",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/tattletail.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/tattletail.html"
+  },
+  {
+    "id": 635,
+    "name": "Teen Titans GO!: Jump Jousts",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/teen_titans_go_jump_jousts.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/teen_titans_go_jump_jousts.html"
+  },
+  {
+    "id": 636,
+    "name": "Teen Titans GO!: Jump Jousts 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/teen_titans_go_jump_jousts_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/teen_titans_go_jump_jousts_2.html"
+  },
+  {
+    "id": 637,
+    "name": "Telekinesis",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/telekinesis.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/telekinesis.html"
+  },
+  {
+    "id": 638,
+    "name": "Telekinesis Attack",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/telekinesis_attack.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/telekinesis_attack.html"
+  },
+  {
+    "id": 639,
+    "name": "Telekinesis Car",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/telekinesis_car.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/telekinesis_car.html"
+  },
+  {
+    "id": 640,
+    "name": "Telekinesis Drive",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/telekinesis_drive.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/telekinesis_drive.html"
+  },
+  {
+    "id": 641,
+    "name": "Temple Run 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/temple_run_2.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/temple_run_2.html"
+  },
+  {
+    "id": 642,
+    "name": "Terraria",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/terraria.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/terraria.html"
+  },
+  {
+    "id": 643,
+    "name": "Territorial.io",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/territorial_io.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/territorial_io.html"
+  },
+  {
+    "id": 644,
+    "name": "Tetris",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/tetris.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/tetris.html"
+  },
+  {
+    "id": 645,
+    "name": "That's Not My Neighbor",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/that_s_not_my_neighbor.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/that_s_not_my_neighbor.html"
+  },
+  {
+    "id": 646,
+    "name": "The Deadseat",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/the_deadseat.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/the_deadseat.html"
+  },
+  {
+    "id": 647,
+    "name": "The Impossible Quiz",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/the_impossible_quiz.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/the_impossible_quiz.html"
+  },
+  {
+    "id": 648,
+    "name": "The Legend of Zelda Majora's Mask",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/the_legend_of_zelda_majora_s_mask.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/the_legend_of_zelda_majora_s_mask.html"
+  },
+  {
+    "id": 649,
+    "name": "The Legend of Zelda Ocarina of Time",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/the_legend_of_zelda_ocarina_of_time.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/the_legend_of_zelda_ocarina_of_time.html"
+  },
+  {
+    "id": 650,
+    "name": "The Man In The Window",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/the_man_in_the_window.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/the_man_in_the_window.html"
+  },
+  {
+    "id": 651,
+    "name": "The Oregon Trail",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/the_oregon_trail.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/the_oregon_trail.html"
+  },
+  {
+    "id": 652,
+    "name": "The World's Hardest Game",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/the_world_s_hardest_game.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/the_world_s_hardest_game.html"
+  },
+  {
+    "id": 653,
+    "name": "The World's Hardest Game 3",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/the_world_s_hardest_game_3.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/the_world_s_hardest_game_3.html"
+  },
+  {
+    "id": 654,
+    "name": "The World's Hardest Game 4",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/the_world_s_hardest_game_4.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/the_world_s_hardest_game_4.html"
+  },
+  {
+    "id": 655,
+    "name": "They Are Coming",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/they_are_coming.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/they_are_coming.html"
+  },
+  {
+    "id": 656,
+    "name": "This Is The Only Level",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/this_is_the_only_level.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/this_is_the_only_level.html"
+  },
+  {
+    "id": 657,
+    "name": "This Is The Only Level 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/this_is_the_only_level_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/this_is_the_only_level_2.html"
+  },
+  {
+    "id": 658,
+    "name": "Three Goblets",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/three_goblets.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/three_goblets.html"
+  },
+  {
+    "id": 659,
+    "name": "TileTopia",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/tiletopia.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/tiletopia.html"
+  },
+  {
+    "id": 660,
+    "name": "Time Shooter 1",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/time_shooter_1.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/time_shooter_1.html"
+  },
+  {
+    "id": 661,
+    "name": "Time Shooter 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/time_shooter_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/time_shooter_2.html"
+  },
+  {
+    "id": 662,
+    "name": "Time Shooter 3: SWAT",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/time_shooter_3_swat.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/time_shooter_3_swat.html"
+  },
+  {
+    "id": 663,
+    "name": "Tiny Fishing",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/tiny_fishing.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/tiny_fishing.html"
+  },
+  {
+    "id": 664,
+    "name": "Tomb Of The Mask",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/tomb_of_the_mask.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/tomb_of_the_mask.html"
+  },
+  {
+    "id": 665,
+    "name": "Tomodachi Collection",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/tomodachi_collection.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/tomodachi_collection.html"
+  },
+  {
+    "id": 666,
+    "name": "Toss The Turtle",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/toss_the_turtle.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/toss_the_turtle.html"
+  },
+  {
+    "id": 667,
+    "name": "Touhou: Luminous Strike",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/touhou_luminous_strike.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/touhou_luminous_strike.html"
+  },
+  {
+    "id": 668,
+    "name": "Touhou Mother",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/touhou_mother.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/touhou_mother.html"
+  },
+  {
+    "id": 669,
+    "name": "Tower Crash 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/tower_crash_3d.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/tower_crash_3d.html"
+  },
+  {
+    "id": 670,
+    "name": "Toy Rider",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/toy_rider.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/toy_rider.html"
+  },
+  {
+    "id": 671,
+    "name": "Traffic Racer",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/traffic_racer.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/traffic_racer.html"
+  },
+  {
+    "id": 672,
+    "name": "Traffic Rider",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/traffic_rider.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/traffic_rider.html"
+  },
+  {
+    "id": 673,
+    "name": "Trivia Crack",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/trivia_crack.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/trivia_crack.html"
+  },
+  {
+    "id": 674,
+    "name": "Tube Jumpers",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/tube_jumpers.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/tube_jumpers.html"
+  },
+  {
+    "id": 675,
+    "name": "Tug of War with Cars",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/tug_of_war_with_cars.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/tug_of_war_with_cars.html"
+  },
+  {
+    "id": 676,
+    "name": "Tunnel Rush",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/tunnel_rush.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/tunnel_rush.html"
+  },
+  {
+    "id": 677,
+    "name": "Turbo Stars",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/turbo_stars.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/turbo_stars.html"
+  },
+  {
+    "id": 678,
+    "name": "Twerk Race 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/twerk_race_3d.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/twerk_race_3d.html"
+  },
+  {
+    "id": 679,
+    "name": "Twisted Rope 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/twisted_rope_3d.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/twisted_rope_3d.html"
+  },
+  {
+    "id": 680,
+    "name": "ULTRAKILL",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/ultrakill.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/ultrakill.html"
+  },
+  {
+    "id": 681,
+    "name": "Undertale: Last Breath",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/undertale_last_breath.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/undertale_last_breath.html"
+  },
+  {
+    "id": 682,
+    "name": "Undertale Last Breath PHASE THREE",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/undertale_last_breath_phase_three.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/undertale_last_breath_phase_three.html"
+  },
+  {
+    "id": 683,
+    "name": "Undertale Yellow",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/undertale_yellow.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/undertale_yellow.html"
+  },
+  {
+    "id": 684,
+    "name": "UNDERWHEELS",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/underwheels.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/underwheels.html"
+  },
+  {
+    "id": 685,
+    "name": "Untitled Goose Game",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/untitled_goose_game.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/untitled_goose_game.html"
+  },
+  {
+    "id": 686,
+    "name": "Vex 1",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/vex_1.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/vex_1.html"
+  },
+  {
+    "id": 687,
+    "name": "Vex 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/vex_2.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/vex_2.html"
+  },
+  {
+    "id": 688,
+    "name": "Vex 3",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/vex_3.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/vex_3.html"
+  },
+  {
+    "id": 689,
+    "name": "Vex 3 XMAS",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/vex_3_xmas.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/vex_3_xmas.html"
+  },
+  {
+    "id": 690,
+    "name": "Vex 4",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/vex_4.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/vex_4.html"
+  },
+  {
+    "id": 691,
+    "name": "Vex 5",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/vex_5.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/vex_5.html"
+  },
+  {
+    "id": 692,
+    "name": "Vex 6",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/vex_6.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/vex_6.html"
+  },
+  {
+    "id": 693,
+    "name": "Vex 7",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/vex_7.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/vex_7.html"
+  },
+  {
+    "id": 694,
+    "name": "Vex 8",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/vex_8.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/vex_8.html"
+  },
+  {
+    "id": 695,
+    "name": "Vex Challenges",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/vex_challenges.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/vex_challenges.html"
+  },
+  {
+    "id": 696,
+    "name": "Vex X3M",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/vex_x3m.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/vex_x3m.html"
+  },
+  {
+    "id": 697,
+    "name": "Vex X3M 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/vex_x3m_2.html",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/vex_x3m_2.html"
+  },
+  {
+    "id": 698,
+    "name": "VS Rewrite: ROUND 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/vs_rewrite_round_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/vs_rewrite_round_2.html"
+  },
+  {
+    "id": 699,
+    "name": "Wall Crawler",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/wall_crawler.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/wall_crawler.html"
+  },
+  {
+    "id": 700,
+    "name": "War Regions",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/war_regions.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/war_regions.html"
+  },
+  {
+    "id": 701,
+    "name": "War The Knights",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/war_the_knights.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/war_the_knights.html"
+  },
+  {
+    "id": 702,
+    "name": "Waterworks!",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/waterworks.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/waterworks.html"
+  },
+  {
+    "id": 703,
+    "name": "We Become What We Behold",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/we_become_what_we_behold.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/we_become_what_we_behold.html"
+  },
+  {
+    "id": 704,
+    "name": "Weapon Craft Run",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/weapon_craft_run.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/weapon_craft_run.html"
+  },
+  {
+    "id": 705,
+    "name": "Weapon Scale",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/weapon_scale.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/weapon_scale.html"
+  },
+  {
+    "id": 706,
+    "name": "Weapon Upgrade Rush",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/weapon_upgrade_rush.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/weapon_upgrade_rush.html"
+  },
+  {
+    "id": 707,
+    "name": "WebFishing",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/webfishing.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/webfishing.html"
+  },
+  {
+    "id": 708,
+    "name": "Wheely",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/wheely.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/wheely.html"
+  },
+  {
+    "id": 709,
+    "name": "Wheely 2",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/wheely_2.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/wheely_2.html"
+  },
+  {
+    "id": 710,
+    "name": "Wheely 3",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/wheely_3.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/wheely_3.html"
+  },
+  {
+    "id": 711,
+    "name": "Wheely 4",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/wheely_4.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/wheely_4.html"
+  },
+  {
+    "id": 712,
+    "name": "Wheely 5",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/wheely_5.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/wheely_5.html"
+  },
+  {
+    "id": 713,
+    "name": "Wheely 6",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/wheely_6.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/wheely_6.html"
+  },
+  {
+    "id": 714,
+    "name": "Wheely 7",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/wheely_7.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/wheely_7.html"
+  },
+  {
+    "id": 715,
+    "name": "Wheely 8",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/wheely_8.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/wheely_8.html"
+  },
+  {
+    "id": 716,
+    "name": "Wordle",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/wordle.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/wordle.html"
+  },
+  {
+    "id": 717,
+    "name": "World Box",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/world_box.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/world_box.html"
+  },
+  {
+    "id": 718,
+    "name": "Worst Time Simulator",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/worst_time_simulator.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/worst_time_simulator.html"
+  },
+  {
+    "id": 719,
+    "name": "Yandere Simulator",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/yandere_simulator.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/yandere_simulator.html"
+  },
+  {
+    "id": 720,
+    "name": "Yume Nikki",
+    "cover": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/covers/yume_nikki.png",
+    "url": "https://cdn.jsdelivr.net/gh/virtuan4-max/assets@main/games/yume_nikki.html"
+  }
+]
